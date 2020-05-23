@@ -1,0 +1,20 @@
+{
+  "name": "good-npm-project",
+  "version": "1.0.0",
+  "description": "npm project to demonstrate tagging",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivganes/good-npm-project.git"
+  },
+  "author": "Vivek Ganesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivganes/good-npm-project/issues"
+  },
+  "homepage": "https://github.com/vivganes/good-npm-project#readme"
+}
